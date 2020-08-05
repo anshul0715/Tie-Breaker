@@ -1,0 +1,25 @@
+body{
+  background-color: aqua;
+
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
+
+.heading{
+  font-size: 5rem;
+  font-family: 'Lobster', cursive;
+}
+
+#header{
+  text-align: center;
+}
+
+.im1,.im2{
+  display: inline-block;
+  font-size: 3rem;
+  margin: 0 50px;
+  font-family: 'Indie Flower', cursive;
+}
